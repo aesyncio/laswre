@@ -8,4 +8,4 @@
  \_______)(___/    \___)(_______/  |___/    \___||__|  \___) \_______) 
                           Made by aesyncio
 ]]--
-loadstring(game:HttpGet('https://raw.githubusercontent.com/thatazero/laswre/main/laswre', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/aesyncio/laswre/main/laswre', true))()
